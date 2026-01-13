@@ -1,10 +1,8 @@
 # Hi, I'm Jaspal 👋
-
 Final-year **B.Tech (Cybersecurity & IoT)** student with a strong interest in **Cloud, DevOps, Backend Systems, Kubernetes, and Applied AI**.  
 I focus on building **practical, production-oriented projects** around scalable systems, automation, and modern cloud-native architectures.
 
 ## 🚀 Current Focus
-
 - Cloud & DevOps projects using **AWS**
 - Containerization with **Docker** and orchestration with **Kubernetes**
 - Backend development using **Python & FastAPI**
@@ -12,7 +10,6 @@ I focus on building **practical, production-oriented projects** around scalable 
 - Exploring **LLMs, RAG pipelines, and AI-powered APIs**
 
 ## 🧠 Learning & Exploring
-
 - AWS, Docker, Kubernetes, Terraform
 - Python, REST APIs, FastAPI
 - LLMs, Retrieval-Augmented Generation (RAG)
@@ -20,7 +17,6 @@ I focus on building **practical, production-oriented projects** around scalable 
 - System design and performance fundamentals
 
 ## 🛠️ Skills
-
 **Cloud & DevOps**
 - AWS (ECS, ECR, IAM, EC2 basics)
 - Docker, Kubernetes
@@ -38,13 +34,11 @@ I focus on building **practical, production-oriented projects** around scalable 
 - Linux
 
 ## 🏆 Certifications & Badges
-
 - AWS Certified Cloud Practitioner (CCP)
 - Google Cloud Essentials – Skill Badge
 - Cisco Networking Academy – Badges
 
 ## 📌 Goals
-
 - Build strong cloud-native and DevOps engineering skills  
 - Work on real-world, production-grade projects  
 - Grow into roles involving **Cloud, DevOps, and AI-enabled systems**
