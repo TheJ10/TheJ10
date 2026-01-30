@@ -23,10 +23,6 @@ My interest lies in understanding **how systems run in production**, improving *
 
 *Learning by building. Improving through real deployments.*
 
-  
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jaspalgundla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaspalgundla@gmail.com) 
-
 # Tech Stack:
 ### Cloud & DevOps
 <table>
@@ -141,10 +137,21 @@ My interest lies in understanding **how systems run in production**, improving *
   </tr>
 </table>
 
+  
+## Socials:
+<div align="left">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/jaspalgundla/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="jaspalgundla@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheJ10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TheJ10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheJ10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
