@@ -1,53 +1,147 @@
 # Hi, I'm Jaspal 👋
-Final-year **B.Tech (Cybersecurity & IoT)** student with a strong interest in **Cloud, DevOps, Backend Systems, Kubernetes, and Applied AI**.  
-I focus on building **practical, production-oriented projects** around scalable systems, automation, and modern cloud-native architectures.
+
+Final-year **B.Tech student in Cybersecurity & IoT** focused on **Cloud Engineering, DevOps, Backend Systems, and Kubernetes**.
+
+I build **production-oriented projects** around **cloud-native architectures, automation, and scalable backend systems**.  
+My interest lies in understanding **how systems run in production**, improving **reliability**, and automating **infrastructure and deployments**.
 
 ## Current Focus
-- Cloud & DevOps projects using **AWS**
-- Containerization with **Docker** and orchestration with **Kubernetes**
-- Backend development using **Python & FastAPI**
-- CI/CD pipelines with **GitHub Actions**
-- Exploring **LLMs, RAG pipelines, and AI-powered APIs**
 
-## Learning & Exploring
-- AWS, Docker, Kubernetes, Terraform
-- Python, REST APIs, FastAPI
-- LLMs, Retrieval-Augmented Generation (RAG)
-- Embeddings and vector databases (basics)
-- System design and performance fundamentals
-
-## Skills
-**Cloud & DevOps**
-- AWS (ECS, ECR, IAM, EC2 basics)
-- Docker, Kubernetes
-- GitHub Actions (CI/CD)
-- Terraform
-
-**Backend & AI**
-- Python
-- FastAPI
-- REST APIs
-- LLM & RAG integration (API-based)
-
-**Tools**
-- Git & GitHub
-- Linux
-
-## Certifications & Badges
-- AWS Certified Cloud Practitioner (CCP)
-- Google Cloud Essentials – Skill Badge
-- Cisco Networking Academy – Badges
+- Cloud & DevOps projects on **AWS**
+- Containerization using **Docker**
+- Service orchestration with **Kubernetes**
+- Backend development with **Python & FastAPI**
+- CI/CD pipelines using **GitHub Actions**
+- Learning **system design and scalability fundamentals**
 
 ## Goals
-- Build strong cloud-native and DevOps engineering skills  
-- Work on real-world, production-grade projects  
-- Grow into roles involving **Cloud, DevOps, and AI-enabled systems**
+
+- Develop strong **cloud-native and DevOps engineering expertise**
+- Work on **real-world, production-grade infrastructure**
+- Contribute to **open-source and collaborative projects**
+- Grow into **Cloud / DevOps engineering roles**
+
+*Learning by building. Improving through real deployments.*
+
   
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jaspalgundla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaspalgundla@gmail.com) 
 
 # Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+### Cloud & DevOps
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="48"/><br/>
+      <sub><b>AWS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="48"/><br/>
+      <sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" height="48"/><br/>
+      <sub><b>Kubernetes</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" height="48"/><br/>
+      <sub><b>Helm</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" height="48"/><br/>
+      <sub><b>Terraform</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" height="48"/><br/>
+      <sub><b>GitHub Actions</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" height="48"/><br/>
+      <sub><b>Jenkins</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Observability & Testing
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" height="48"/><br/>
+      <sub><b>Prometheus</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" height="48"/><br/>
+      <sub><b>Grafana</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/k6/k6-original.svg" height="48"/><br/>
+      <sub><b>k6</b></sub>
+    </td>
+  </tr>
+</table>
+
+
+### Backend & Scripting
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="48"/><br/>
+      <sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="48"/><br/>
+      <sub><b>Bash</b></sub>
+    </td>
+  </tr>
+</table>
+
+### Tools & Platforms
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="48"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="48"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="48"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+  </tr>
+</table>
+
+# Certifications
+<table>
+  <tr>
+    <td align="center" width="180">
+      <a href="https://www.credly.com/badges/e44939ff-9047-4fb8-928e-f2b43b74e51b/public_url" target="_blank" height="48"/>
+  <img src="https://images.credly.com/size/50x50/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+</a><br/>
+<sub><b>AWS Cloud Practitioner</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://www.skills.google/public_profiles/23423990-f8de-4df9-a6e0-8af5761e93a7/badges/14430492">
+        <img src="https://cdn.qwiklabs.com/48%2BvX75uP8hc%2By73zofiJgPAFNZfDMP8hfGTBGA52mk%3D" height="48"/>
+      </a><br/>
+      <sub><b>Google Cloud Essentials</b></sub>
+    </td>
+    <td align="center" width="180">
+      <a href="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png">
+        <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="48"/>
+      </a><br/>
+      <sub><b>Networking Basics</b></sub>
+    </td>
+  </tr>
+</table>
+
+
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheJ10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=TheJ10&theme=dark&hide_border=false)<br/>
