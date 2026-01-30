@@ -138,12 +138,12 @@ My interest lies in understanding **how systems run in production**, improving *
 </table>
 
   
-## Socials:
+## Connect with Me
 <div align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/jaspalgundla/" target="_blank">
+  <a href="www.linkedin.com/in/jaspalgundla" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="jaspalgundla@gmail.com" target="_blank">
+  <a href="mailto:jaspalgundla@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
