@@ -139,14 +139,13 @@ My interest lies in understanding **how systems run in production**, improving *
 
   
 ## Connect with Me
-<div align="left">
-  <a href="www.linkedin.com/in/jaspalgundla" target="_blank">
+<p align="left">
+  <a href="https://www.linkedin.com/in/jaspalgundla" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="mailto:jaspalgundla@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
+</p>
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheJ10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
