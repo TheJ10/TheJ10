@@ -121,8 +121,8 @@ My interest lies in understanding **how systems run in production**, improving *
 <table>
   <tr>
     <td align="center" width="180">
-      <a href="https://www.credly.com/badges/e44939ff-9047-4fb8-928e-f2b43b74e51b/public_url" target="_blank" height="48"/>
-  <img src="https://images.credly.com/size/50x50/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"/>
+      <a href="https://www.credly.com/badges/e44939ff-9047-4fb8-928e-f2b43b74e51b/public_url">
+        <img src="https://images.credly.com/size/50x50/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" target="_blank" height="48"/ />
 </a><br/>
 <sub><b>AWS Cloud Practitioner</b></sub>
     </td>
@@ -133,14 +133,13 @@ My interest lies in understanding **how systems run in production**, improving *
       <sub><b>Google Cloud Essentials</b></sub>
     </td>
     <td align="center" width="180">
-      <a href="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png">
+      <a href="https://www.credly.com/badges/d6681983-8c74-43a7-b1e0-fe5386327bb5/public_url">
         <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" height="48"/>
       </a><br/>
       <sub><b>Networking Basics</b></sub>
     </td>
   </tr>
 </table>
-
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TheJ10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
